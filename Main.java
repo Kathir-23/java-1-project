@@ -12,6 +12,7 @@ public class Main {
     static void add (int a,int d,int f,int g){
         int c= a+d+f+g;
         System.out.println(d);}
+    for(int i=1;i<=5;i++)
 
     public static void main(String[] args)
     {
